@@ -1,0 +1,17 @@
+E:\Schule\prog\ConsoleChartQuiz\ConsoleChartQuiz\bin\Debug\net5.0\ConsoleChartQuiz.exe
+E:\Schule\prog\ConsoleChartQuiz\ConsoleChartQuiz\bin\Debug\net5.0\ConsoleChartQuiz.deps.json
+E:\Schule\prog\ConsoleChartQuiz\ConsoleChartQuiz\bin\Debug\net5.0\ConsoleChartQuiz.runtimeconfig.json
+E:\Schule\prog\ConsoleChartQuiz\ConsoleChartQuiz\bin\Debug\net5.0\ConsoleChartQuiz.runtimeconfig.dev.json
+E:\Schule\prog\ConsoleChartQuiz\ConsoleChartQuiz\bin\Debug\net5.0\ConsoleChartQuiz.dll
+E:\Schule\prog\ConsoleChartQuiz\ConsoleChartQuiz\bin\Debug\net5.0\ref\ConsoleChartQuiz.dll
+E:\Schule\prog\ConsoleChartQuiz\ConsoleChartQuiz\bin\Debug\net5.0\ConsoleChartQuiz.pdb
+E:\Schule\prog\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\net5.0\ConsoleChartQuiz.csprojAssemblyReference.cache
+E:\Schule\prog\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\net5.0\ConsoleChartQuiz.GeneratedMSBuildEditorConfig.editorconfig
+E:\Schule\prog\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\net5.0\ConsoleChartQuiz.AssemblyInfoInputs.cache
+E:\Schule\prog\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\net5.0\ConsoleChartQuiz.AssemblyInfo.cs
+E:\Schule\prog\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\net5.0\ConsoleChartQuiz.csproj.CoreCompileInputs.cache
+E:\Schule\prog\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\net5.0\ConsoleChartQuiz.dll
+E:\Schule\prog\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\net5.0\ref\ConsoleChartQuiz.dll
+E:\Schule\prog\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\net5.0\ConsoleChartQuiz.pdb
+E:\Schule\prog\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\net5.0\ConsoleChartQuiz.genruntimeconfig.cache
+E:\Schule\prog\ConsoleChartQuiz\ConsoleChartQuiz\bin\Debug\net5.0\data.txt
